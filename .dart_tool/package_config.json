@@ -2,14 +2,20 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "args",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/args-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "async",
       "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
-      "name": "bip39",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/bip39-1.0.6",
+      "name": "bloc",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/bloc-8.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -56,14 +62,8 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "ed25519_hd_key",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/ed25519_hd_key-2.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "eip1559",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/eip1559-0.6.1",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/eip1559-0.6.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -80,16 +80,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "ffi",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/ffi-2.1.3",
+      "name": "fixnum",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/fixnum-1.1.1",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "file",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/file-7.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.1"
     },
     {
       "name": "flutter",
@@ -98,8 +92,8 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "flutter_dotenv",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/flutter_dotenv-5.2.1",
+      "name": "flutter_bloc",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/flutter_bloc-8.1.6",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -110,28 +104,22 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "flutter_svg",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/flutter_svg-2.0.10+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/qasim/development/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
-      "name": "flutter_web_plugins",
-      "rootUri": "file:///Users/qasim/development/flutter/packages/flutter_web_plugins",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "hex",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/hex-0.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "http",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/http-0.13.6",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/http-1.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "http_parser",
@@ -206,40 +194,16 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "path_provider_linux",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1",
+      "name": "path_parsing",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/path_parsing-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
-      "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "path_provider_windows",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0",
+      "name": "petitparser",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/petitparser-6.0.2",
       "packageUri": "lib/",
       "languageVersion": "3.2"
-    },
-    {
-      "name": "pinenacl",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/pinenacl-0.5.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "platform",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/platform-3.1.6",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
     },
     {
       "name": "pointycastle",
@@ -260,48 +224,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "shared_preferences",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/shared_preferences-2.2.3",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
-      "name": "shared_preferences_android",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "shared_preferences_foundation",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.3",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "shared_preferences_linux",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "shared_preferences_platform_interface",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/shared_preferences_platform_interface-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "shared_preferences_web",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "shared_preferences_windows",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
       "name": "sky_engine",
       "rootUri": "file:///Users/qasim/development/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -312,6 +234,12 @@
       "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/source_span-1.10.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
+    },
+    {
+      "name": "sprintf",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "stack_trace",
@@ -357,9 +285,27 @@
     },
     {
       "name": "uuid",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/uuid-3.0.7",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/uuid-4.5.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "vector_graphics",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/vector_graphics-1.1.11+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.1.11+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.1.11+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "vector_math",
@@ -387,15 +333,21 @@
     },
     {
       "name": "web3dart",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/web3dart-2.6.1",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/web3dart-2.7.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "xdg_directories",
-      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/xdg_directories-1.1.0",
+      "name": "web_socket_channel",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/web_socket_channel-2.4.5",
       "packageUri": "lib/",
       "languageVersion": "3.3"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///Users/qasim/.pub-cache/hosted/pub.dev/xml-6.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter_web3_wallet",
@@ -404,7 +356,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-12-21T23:11:15.112696Z",
+  "generated": "2024-12-28T19:07:12.174613Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }
