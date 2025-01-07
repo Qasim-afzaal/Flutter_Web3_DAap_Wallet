@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_web3_wallet/features/dashboard/bloc/dashboard_bloc.dart';
 import 'package:flutter_web3_wallet/models/transaction_model.dart';
