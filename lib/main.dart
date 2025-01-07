@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_web3_wallet/features/dashboard/ui/dashboard_page.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       home: DashboardPage(),
     );
   }
